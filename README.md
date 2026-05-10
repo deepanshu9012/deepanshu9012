@@ -21,5 +21,5 @@ I build highly scalable, intelligent software systems bridging the gap between m
 * 👁️ **[TriSense-MMERaRS](https://github.com/deepanshu9012/TRISENSE-MMERaRS)** - Advanced Multimodal Emotion Recognition system leveraging late fusion of FER, SER, and TER models.
 
 ### 📫 Let's Connect
-- **LinkedIn:** [linkedin.com/in/your-profile-here]([https://linkedin.com/in/your-profile-here](https://www.linkedin.com/in/deepanshu-sharma-266a05288/))
+- **LinkedIn:** [[linkedin.com/in/your-profile-here](https://linkedin.com/in/your-profile-here](https://www.linkedin.com/in/deepanshu-sharma-266a05288/)]
 - **Email:** deepanshusharma9012@gmail.com
