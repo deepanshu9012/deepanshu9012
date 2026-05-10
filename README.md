@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Deepanshu Sharma 👋
 
-<!--
-**deepanshu9012/deepanshu9012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack AI Developer | Generative AI & Web Systems Architect**
 
-Here are some ideas to get you started:
+I build highly scalable, intelligent software systems bridging the gap between modern web development and advanced machine learning. My focus is on creating production-ready applications using Retrieval-Augmented Generation (RAG), Vector Databases, and Large Language Models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm working on
+- **Enterprise AI Systems:** Building tools like [Nexus AI ATS](https://github.com/deepanshu9012/nexus-ai-ats), a zero-hallucination resume parser and semantic search engine.
+- **Multimodal Machine Learning:** Researching and developing emotion recognition systems using Vision, Speech, and Text data (TriSense).
+- **Full-Stack Architecture:** Developing robust, secure web applications with Role-Based Access Control using Next.js and MongoDB.
+
+### 🛠️ Tech Stack
+- **Frontend:** Next.js, React, TypeScript, Tailwind CSS
+- **Backend:** Python, FastAPI, Node.js
+- **AI / ML:** Llama 3, LangChain, PyTorch, Jupyter
+- **Databases:** Qdrant (Vector DB), MongoDB, PostgreSQL
+
+### 🏆 Featured Projects
+* 🧠 **[Nexus AI: Enterprise Talent Intelligence](https://github.com/deepanshu9012/nexus-ai-ats)** - A Next.js/FastAPI application using Qdrant and Llama 3.1 to automate candidate screening without hallucinations.
+* 🏢 **[Enterprise HR Policy Assistant](https://github.com/deepanshu9012/enterprise-hr-assistant)** - A local RAG pipeline built with LangChain that navigates corporate policy documents with real-time streaming.
+* 👁️ **[TriSense-MMERaRS](https://github.com/deepanshu9012/TRISENSE-MMERaRS)** - Advanced Multimodal Emotion Recognition system leveraging late fusion of FER, SER, and TER models.
+
+### 📫 Let's Connect
+- **LinkedIn:** [linkedin.com/in/your-profile-here](https://linkedin.com/in/your-profile-here)
+- **Email:** your.email@example.com
