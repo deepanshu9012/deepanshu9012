@@ -26,5 +26,5 @@ I am a dedicated AI Engineer specializing in autonomous Agentic workflows, compl
   * Deployed the heavy ML inference engine via a Flask RESTful API, optimizing memory overhead with PyTorch Mixed Precision (Float16).
 
 ### 📫 Connect with me
-- **💼 LinkedIn:** [linkedin.com/in/deepanshu-sharma](https://linkedin.com/in/deepanshu-sharma)
+- **💼 LinkedIn:** [linkedin.com/in/deepanshu-sharma](https://linkedin.com/in/deepanshu-sharma-266a05288)
 - **✉️ Email:** deepanshusharma9012@gmail.com
