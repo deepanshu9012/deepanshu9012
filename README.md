@@ -17,11 +17,11 @@ I am a dedicated AI Engineer specializing in autonomous Agentic workflows, compl
   * Architected an autonomous AI Agent leveraging advanced RAG architectures to semantically evaluate resumes against job descriptions with zero hallucinations. 
   * Built a robust, Docker-containerized backend pipeline using FastAPI and Pydantic to statefully manage document data within a Qdrant vector database.
 
-* **[🏢 Enterprise HR Policy Assistant](https://github.com/deepanshu9012/hr-policy-assistant)**
+* **[🏢 Enterprise HR Policy Assistant](https://github.com/deepanshu9012/enterprise-hr-assistant)**
   * Engineered a completely local RAG pipeline using Llama 3, LangChain, and FAISS to deliver hallucination-free answers.
   * Utilized Server-Sent Events (SSE) via FastAPI to stream real-time LLM inference to client applications, decoupling heavy chunking processes to prevent local OOM crashes.
 
-* **[🎭 TriSense - Multimodal Emotion Recognition](https://github.com/deepanshu9012/trisense)**
+* **[🎭 TriSense - Multimodal Emotion Recognition](https://github.com/deepanshu9012/TRISENSE-MMERaRS)**
   * Developed an advanced multimodal pipeline implementing Decision-Level Late Fusion to resolve conflicting signals across video, audio, and text streams.
   * Deployed the heavy ML inference engine via a Flask RESTful API, optimizing memory overhead with PyTorch Mixed Precision (Float16).
 
